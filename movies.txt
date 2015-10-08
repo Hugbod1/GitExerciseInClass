@@ -3,6 +3,7 @@ snojo:
 "The Matrix"
 "Love you long time"
 "Kill you softly"
+"I hate you"
 
 
 RaquelitaR:
@@ -10,3 +11,10 @@ RaquelitaR:
 "Charlies Angels"
 "Big Hero 6"
 "Tammy"
+
+
+
+
+
+
+>>>>>>> 90d24388e254c383d008c11984ab415e9601cf70

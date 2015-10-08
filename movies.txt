@@ -12,9 +12,8 @@ RaquelitaR:
 "Big Hero 6"
 "Tammy"
 
+Sölvi:
+"Mynd 1"
+"Mynd 2"
+"Mynd 3"
 
-
-
-
-
->>>>>>> 90d24388e254c383d008c11984ab415e9601cf70
